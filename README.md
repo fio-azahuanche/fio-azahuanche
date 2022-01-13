@@ -1,7 +1,16 @@
-<a href="#"><img width="100%" height="175px" src="https://firebasestorage.googleapis.com/v0/b/helppetsprueba2.appspot.com/o/imgPosts%2Fundraw_voice_interface_eckp.svg?alt=media&token=b18eb55e-9bdf-4932-ae37-20c40c0dc7f5"/></a>
+<!--a href="#"><img width="100%" height="175px" src="https://firebasestorage.googleapis.com/v0/b/helppetsprueba2.appspot.com/o/imgPosts%2Fundraw_voice_interface_eckp.svg?alt=media&token=b18eb55e-9bdf-4932-ae37-20c40c0dc7f5"/></a-->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fiorela</h1>
-<h3 align="center">I'm a Mathematician from Peru.</h3>
+<hr>
+<!-- MAIN PHRASE SECTION -->
+  <span>
+    <h3 align="center">"<em>
+There is no branch of mathematics, however abstract, which may not some day be applied to phenomena of the real world.</em>"
+    </h3>
+</span>
+<hr>
+    
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fiorela</h1>
+<h3>I'm a Mathematician from Peru and I belong to the FrontEnd Developer Program at <a href="https://www.laboratoria.la/">Laboratoria</a>.</h3>
 
 ## 🙋 About Me
 - 👀 I’m interested in programming.
@@ -24,7 +33,9 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://www.latex-project.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/latex.png"/> </a>
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
+    <a href="https://www.overleaf.com/" target="_blank"> <img src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" width="48" height="48"/> </a>
+     <a href="https://vscode.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="48" height="48"/></a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/office/48/000000/figma.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
@@ -38,11 +49,11 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 Stats
 
   <br/>
-    <a href="https://github.com/fio-azahuanche/github-readme-stats"><img alt="Fiorela Azahuanche's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fio-azahuanche&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/fio-azahuanche/github-readme-stats"><img alt="Fiorela Azahuanche's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fio-azahuanche&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/fio-azahuanche/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=fio-azahuanche&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/fio-azahuanche/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fio-azahuanche&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
