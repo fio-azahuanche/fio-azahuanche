@@ -9,8 +9,8 @@ There is no branch of mathematics, however abstract, which may not some day be a
 </span>
 <hr>
     
-<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fiorela</h1>
-<h3>I'm a Mathematician from Peru and I belong to the FrontEnd Developer Program at <a href="https://www.laboratoria.la/">Laboratoria</a>.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fiorela</h1>
+<h4 align="center">I'm a Mathematician from Peru and I belong to the FrontEnd Developer Program at <a href="https://www.laboratoria.la/">Laboratoria</a>.</h4>
 
 ## 🙋 About Me
 - 👀 I’m interested in programming.
@@ -23,7 +23,7 @@ There is no branch of mathematics, however abstract, which may not some day be a
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/> </a>
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
