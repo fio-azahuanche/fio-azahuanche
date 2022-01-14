@@ -1,15 +1,15 @@
 <!--a href="#"><img width="100%" height="175px" src="https://firebasestorage.googleapis.com/v0/b/helppetsprueba2.appspot.com/o/imgPosts%2Fundraw_voice_interface_eckp.svg?alt=media&token=b18eb55e-9bdf-4932-ae37-20c40c0dc7f5"/></a-->
 
-<hr>
+<!--hr>
 <!-- MAIN PHRASE SECTION -->
-  <span>
+  <!--span>
     <h3 align="center">"<em>
 There is no branch of mathematics, however abstract, which may not some day be applied to phenomena of the real world.</em>"
     </h3>
 </span>
-<hr>
+<hr-->
     
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fiorela, better known as Fio👩‍💻</h2>
+<h2 align="center">Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fiorela, better known as Fio👩‍💻</h2>
 
 - 👀 I’m interested in programming.
 
@@ -20,7 +20,8 @@ There is no branch of mathematics, however abstract, which may not some day be a
 ## About Me
 
 ```
-Besides programming, I'm a Mathematician and I belong to the FrontEnd Developer Program at Laboratoria 🇵🇪. 
+Besides programming, I'm a Mathematician and 
+I belong to the FrontEnd Developer Program at Laboratoria 🇵🇪. 
 I love to watch sci-fi movies and appreciate sunsets.
 ```
 
@@ -53,23 +54,18 @@ I love to watch sci-fi movies and appreciate sunsets.
 </p>
 
 ## 📊 Stats
-
   <br/>
     <a href="https://github.com/fio-azahuanche/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=fio-azahuanche&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/fio-azahuanche/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fio-azahuanche&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-
 <br/>
 
-
 ## Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/fiorela-azahuanche/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/fioreventually/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="mailto:fazahuanchef@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<p align="center">
 
+<a href = "https://www.linkedin.com/in/fiorela-azahuanche/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
+<a href = "https://www.instagram.com/fioreventually/"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
+<a href = "mailto:fazahuanchef@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> </a>
 
 </p>
 
