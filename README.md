@@ -9,17 +9,20 @@ There is no branch of mathematics, however abstract, which may not some day be a
 </span>
 <hr>
     
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fiorela👩‍💻</h1>
-<h4 align="center">I'm a Mathematician from Peru and I belong to the FrontEnd Developer Program at <a href="https://www.laboratoria.la/">Laboratoria</a>.</h4>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fiorela, better known as Fio👩‍💻</h2>
 
-## 🙋 About Me
 - 👀 I’m interested in programming.
 
 - 🌱 I’m currently learning machine learning and frontend development.
 
 - 💞️ I’m looking to collaborate on interesting projects.
 
-- 📫 How to reach me: fazahuanchef@gmail.com 
+## About Me
+
+```
+Besides programming, I'm a Mathematician and I belong to the FrontEnd Developer Program at Laboratoria 🇵🇪. 
+I love to watch sci-fi movies and appreciate sunsets.
+```
 
 ## 🚀 Languages and Tools:
 
@@ -35,8 +38,8 @@ There is no branch of mathematics, however abstract, which may not some day be a
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
     <a href="https://www.overleaf.com/" target="_blank"> <img src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" width="48" height="48"/> </a>
-     <a href="https://vscode.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="48" height="48"/></a>
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/office/48/000000/figma.png"/> </a>
+     <a href="https://vscode.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" height="45"/></a>
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/office/45/000000/figma.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
@@ -65,6 +68,8 @@ There is no branch of mathematics, however abstract, which may not some day be a
 
 <a href = "https://www.linkedin.com/in/fiorela-azahuanche/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/fioreventually/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="mailto:fazahuanchef@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+
 
 </p>
 
