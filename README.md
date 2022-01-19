@@ -22,7 +22,7 @@ There is no branch of mathematics, however abstract, which may not some day be a
 ```
 Besides programming, I'm a Mathematician and 
 I belong to the FrontEnd Developer Program at Laboratoria 🇵🇪. 
-I love to watch sci-fi movies and appreciate sunsets.
+I love to watch sci-fi movies and appreciate sunsets🌅
 ```
 
 ## 🚀 Languages and Tools:
@@ -42,7 +42,7 @@ I love to watch sci-fi movies and appreciate sunsets.
      <a href="https://vscode.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" height="45"/></a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/office/45/000000/figma.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-</p>
+</p
 
 ## 📊 Stats
   <br/>
