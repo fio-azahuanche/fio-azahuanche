@@ -20,7 +20,7 @@ There is no branch of mathematics, however abstract, which may not some day be a
 <div align="center">
   
 <a href="https://fio-azahuanche.netlify.app/" target="_blank">
-    <img align="center" title='Mi Portafolio' src="./img/banner.png" alt="Fio Azahuanche Portafolio" height="200" width="200" />
+    <img align="center" title='Mi Portafolio' src="./img/banner2.png" alt="Fio Azahuanche Portafolio" height="200" width="390" />
 </a>
 
 </div>
