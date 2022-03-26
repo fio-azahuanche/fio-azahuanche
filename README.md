@@ -15,12 +15,10 @@ Learning to code is learning to create and innovate</em>"
 <span align="left">
   
 - 👋🏻 Hey There! I'm Fiorela, better known as Fio.
-  
-- 👀 I’m interested in programming.
 
 - 🌱 I’m a frontend developer and currently learning Angular.
   
-- 👩‍💻 I’m interesting in machine learning and i'm improving my backend skills.
+- 👀💻 I’m interesting in programming, machine learning and I'm improving my backend skills.
 
 - 🔭 I’m looking to collaborate on interesting projects.
 </span>
