@@ -1,22 +1,30 @@
 <!--a href="#"><img width="100%" height="175px" src="https://firebasestorage.googleapis.com/v0/b/helppetsprueba2.appspot.com/o/imgPosts%2Fundraw_voice_interface_eckp.svg?alt=media&token=b18eb55e-9bdf-4932-ae37-20c40c0dc7f5"/></a-->
+    
+<!--<h2 align="center">Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fiorela, better known as Fio👩‍💻</h2>-->
 
-<!--hr>
+<hr>
 <!-- MAIN PHRASE SECTION -->
-  <!--span>
+<span>
+  <span>
     <h3 align="center">"<em>
-There is no branch of mathematics, however abstract, which may not some day be applied to phenomena of the real world.</em>"
+Learning to code is learning to create and innovate</em>"
     </h3>
 </span>
-<hr-->
-    
-<h2 align="center">Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fiorela, better known as Fio👩‍💻</h2>
+<hr>
 
+<span align="left">
+  
+- 👋🏻 Hey There! I'm Fiorela, better known as Fio.
+  
 - 👀 I’m interested in programming.
 
-- 🌱 I’m a developer who works with frontend and currently learning Angular.
+- 🌱 I’m a frontend developer and currently learning Angular.
+  
+- 👩‍💻 I’m interesting in machine learning and i'm improving my backend skills.
 
 - 🔭 I’m looking to collaborate on interesting projects.
-
+</span>
+  
 <div align="center">
   
 <a href="https://fio-azahuanche.netlify.app/" target="_blank">
@@ -27,12 +35,16 @@ There is no branch of mathematics, however abstract, which may not some day be a
 
 ## About Me
 
+<span align="left">
+ 
 ```
-Besides programming, I'm a Mathematician and 
-I belong to the FrontEnd Developer Program at Laboratoria 🇵🇪. 
-I love to watch sci-fi movies and appreciate sunsets🌅
+Besides programming, I'm a Mathematician 
+which allows me to have a logical order.
+I love to learn new things, watch sci-fi movies and 
+appreciate sunsets🌅
 ```
-
+</span>
+  
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
