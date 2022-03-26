@@ -18,7 +18,7 @@ Learning to code is learning to create and innovate</em>"
 
 - 🌱 I’m a frontend developer and currently learning Angular.
   
-- 👀💻 I’m interesting in programming, machine learning and I'm improving my backend skills.
+- 👀 I’m interesting in programming, machine learning and I'm improving my backend skills.
 
 - 🔭 I’m looking to collaborate on interesting projects.
 </span>
