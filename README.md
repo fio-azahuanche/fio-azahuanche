@@ -31,7 +31,7 @@ Learning to code is learning to create and innovate</em>"
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me: 
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> About Me: 
 
 <span align="left">
  
