@@ -68,8 +68,14 @@ appreciate sunsets🌅
 
 ## 📊 Stats
   <br/>
-    <a href="https://github.com/fio-azahuanche/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=fio-azahuanche&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/fio-azahuanche/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fio-azahuanche&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <div style="display: block;">
+    <p align="center">
+        <a href="https://github.com/fio-azahuanche">
+            <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fio-azahuanche&layout=compact&langs_count=8&theme=algolia"/>
+            <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fio-azahuanche&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+        </a>
+       </p>
+    </div>
 <br/>
 
 ## <img src="https://media.giphy.com/media/TAI7m9rn3J6eeUn9Q2/giphy.gif" width="30"> Connect with me:
