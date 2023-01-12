@@ -62,12 +62,10 @@ appreciate sunsets🌅
   <a href="https://www.overleaf.com/" target="_blank"> <img src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" width="48" height="48"/> </a>
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-     
-     
-</p
+</p>
 
 ## 📊 Stats
-  <br/>
+<br>
     <div style="display: block;">
     <p align="center">
         <a href="https://github.com/fio-azahuanche">
@@ -76,7 +74,7 @@ appreciate sunsets🌅
         </a>
        </p>
     </div>
-<br/>
+</br>
 
 ## <img src="https://media.giphy.com/media/TAI7m9rn3J6eeUn9Q2/giphy.gif" width="30"> Connect with me:
 
