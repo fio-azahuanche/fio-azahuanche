@@ -25,9 +25,9 @@ Learning to code is learning to create and innovate</em>"
   
 <div align="center">
   
-<a href="https://fio-azahuanche.netlify.app/" target="_blank">
+<!--<a href="https://fio-azahuanche.netlify.app/" target="_blank">
     <img align="center" title='Mi Portafolio' src="./img/banner3.png" alt="Fio Azahuanche Portafolio" height="200" width="390" />
-</a>
+</a>-->
 
 </div>
 
