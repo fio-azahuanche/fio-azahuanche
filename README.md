@@ -16,11 +16,14 @@ Learning to code is learning to create and innovate</em>"
   
 - 👋🏻 Hey There! I'm Fiorela, better known as Fio.
 
-- 🌱 I’m a frontend developer and currently learning Angular.
-  
-- 👀 I’m interesting in programming, machine learning and I'm improving my backend skills.
+- 💻 I’m a frontend developer, passionate about building projects from scratch.
 
-- 🔭 I’m looking to collaborate on interesting projects.
+- 🔧 I've worked extensively with Angular and React. Currently, I'm transitioning into a full stack role, focusing on Java.
+
+- 🌱 My love for programming keeps me eager to explore new languages and technologies.
+
+- 🚀 I'm always open to collaborating on interesting and innovative projects.
+  
 </span>
   
 <div align="center">
@@ -62,6 +65,13 @@ appreciate sunsets🌅
   <a href="https://www.overleaf.com/" target="_blank"> <img src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" width="48" height="48"/> </a>
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a style="padding-right:8px;" href="https://reactjs.org" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+</a>
+
+<a style="padding-right:8px;" href="https://nestjs.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/nestjs.png"/>
+</a>
 </p>
 
 ## 📊 Stats
